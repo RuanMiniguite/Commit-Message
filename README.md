@@ -22,4 +22,4 @@
 
 
 
-Inspired by dannyfritz/commit-message-emoji
+Inspired by [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji)
