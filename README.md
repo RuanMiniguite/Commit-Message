@@ -4,7 +4,7 @@
 |:----------------------------|:----------------------------|:-------------------|:---------------------|
 | Initial commit              | Commit inicial              | :tada:             |`:tada: first commit` |
 | New functionality           | Nova funcionalidade         | :package:          |`:package:  `         |
-| Bug                         | Erro                        | :beetle:           |`:beetle:`            |
+| Bug                         | Erro                        | :bug:              |`:bug:`               |
 | Comments in source code     | Comentários no código-fonte | :bulb:             |`:bulb:`              |
 | UI                          | Interface com usuario       | :art:              |`:art:`               |
 | Development scripts         | Desenvolvimento             | :hammer:           |`:hammer:`            |
