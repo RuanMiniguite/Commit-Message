@@ -1,25 +1,59 @@
-## Mensagem commit
+## Mensagem Emoji commit
 
-| Commit type                 | Tipo Commit                 | Emoji              |Commit message        |
-|:----------------------------|:----------------------------|:-------------------|:---------------------|
-| Initial commit              | Commit inicial              | :tada:             |`:tada: first commit` |
-| New functionality           | Nova funcionalidade         | :package:          |`:package:  `         |
-| Bug                         | Erro                        | :bug:              |`:bug:`               |
-| Comments in source code     | Comentários no código-fonte | :bulb:             |`:bulb:`              |
-| UI                          | Interface com usuario       | :art:              |`:art:`               |
-| Development scripts         | Desenvolvimento             | :hammer:           |`:hammer:`            |
-| Responsive design           | Design responsivo           | :iphone:           |`:iphone:`            |
-| Relese                      | Lançamento                  | :rocket:           |`:rocket:`            |
+| Commit type                 | Emoji              |Commit message        |
+|:----------------------------|:-------------------|:---------------------|
+| Initial commit              | :tada:             |`:tada: first commit` |
+| New functionality           | :package:          |`:package:  `         |
+| Bug                         | :beetle:           |`:beetle:`            |
+| Comments in source code     | :bulb:             |`:bulb:`              |
+| UI                          | :art:              |`:art:`               |
+| Development scripts         | :hammer:           |`:hammer:`            |
+| Responsive design           | :iphone:           |`:iphone:`            |
+| Relese                      | :rocket:           |`:rocket:`            |
 | |
-| Performance                 | Performance                 | :zap:              |`:zap:`               |
-| Security                    | Segurança                   | :lock:             |`:lock:`              |
-| Accessibility               | Acessibilidade              | :wheelchair:       |`:wheelchair:`        |
-| License                     | Licença                     | :pencil:           |`:pencil:`            |
-| Documentation               | Documentação                | :books:            |`:books:`             |
-| Removing code/files         | Removendo código / arquivos | :fire:             |`:fire:`              |
-| Configuration files         | Arquivos de configuração    | :gear:             |`:gear:`              |
-| Move/rename repository      | Mover/renomear repositório  | :truck:            |`:truck:`             |
-
-
+| Performance                 | :zap:              |`:zap:`               |
+| Security                    | :lock:             |`:lock:`              |
+| Accessibility               | :wheelchair:       |`:wheelchair:`        |
+| License                     | :pencil:           |`:pencil:`            |
+| Documentation               | :books:            |`:books:`             |
+| Removing code/files         | :fire:             |`:fire:`              |
+| Configuration files         | :gear:             |`:gear:`              |
+| Move/rename repository      | :truck:            |`:truck:`             |
+| Tests                       | :rotating_light:   |`:rotating_light:`    |
 
 Inspired by [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji)
+
+
+## Conventional Commits
+
+###### Structured
+
+```
+<type>[optional scope]: <description>
+[optional body]
+[optional footer(s)]
+```
+
+###### Type
+
+```
+fix:
+feat:
+BREAKING CHANGE:
+build:
+chore:
+ci:
+docs:
+style:
+refactor:
+perf:
+test:
+```
+
+###### Example
+
+```
+feat(api)!: send an email to the customer when a product is shipped
+```
+
+https://www.conventionalcommits.org/en/v1.0.0/
