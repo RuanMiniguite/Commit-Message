@@ -9,13 +9,12 @@
 | UI                          | :art:              |`:art:`               |
 | Refactor code               | :hammer:           |`:hammer:`            |
 | Responsive design           | :iphone:           |`:iphone:`            |
-| Relese                      | :rocket:           |`:rocket:`            |
-| |
-| Performance                 | :zap:              |`:zap:`               |
-| Security                    | :lock:             |`:lock:`              |
 | License                     | :pencil:           |`:pencil:`            |
 | Documentation               | :books:            |`:books:`             |
 | Removing code/files         | :fire:             |`:fire:`              |
+| Relese                      | :rocket:           |`:rocket:`            |
+| Performance                 | :zap:              |`:zap:`               |
+| Security                    | :lock:             |`:lock:`              |
 | Configuration files         | :gear:             |`:gear:`              |
 | Tests                       | :rotating_light:   |`:rotating_light:`    |
 
