@@ -7,18 +7,16 @@
 | Bug                         | :bug:              |`:bug:`               |
 | Comments in source code     | :bulb:             |`:bulb:`              |
 | UI                          | :art:              |`:art:`               |
-| Development scripts         | :hammer:           |`:hammer:`            |
+| Refactor code               | :hammer:           |`:hammer:`            |
 | Responsive design           | :iphone:           |`:iphone:`            |
 | Relese                      | :rocket:           |`:rocket:`            |
 | |
 | Performance                 | :zap:              |`:zap:`               |
 | Security                    | :lock:             |`:lock:`              |
-| Accessibility               | :wheelchair:       |`:wheelchair:`        |
 | License                     | :pencil:           |`:pencil:`            |
 | Documentation               | :books:            |`:books:`             |
 | Removing code/files         | :fire:             |`:fire:`              |
 | Configuration files         | :gear:             |`:gear:`              |
-| Move/rename repository      | :truck:            |`:truck:`             |
 | Tests                       | :rotating_light:   |`:rotating_light:`    |
 
 Inspired by [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji)
