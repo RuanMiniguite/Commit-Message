@@ -1,4 +1,7 @@
-## Mensagem Emoji commit
+<div align="center" id="header">
+
+<h2>Mensagem Emoji commit</h2><br>
+
 
 | Commit type                 | Emoji              |Commit message        |
 |:----------------------------|:-------------------|:---------------------|
@@ -18,10 +21,22 @@
 | Configuration files         | :gear:             |`:gear:`              |
 | Tests                       | :rotating_light:   |`:rotating_light:`    |
 
-Inspired by [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji)
+</div>
+
+##### Example
+```
+:bug: Correção da variável
+```
+###### Saida!
+:bug: Correção da variável
 
 
-## Conventional Commits
+<div align="center">
+
+<hr><br><h2>Conventional Commits</h2>
+
+</div>
+
 
 ###### Structured
 
@@ -47,10 +62,12 @@ perf:
 test:
 ```
 
-###### Example
+##### Example
 
 ```
 feat(api)!: send an email to the customer when a product is shipped
 ```
 
 https://www.conventionalcommits.org/en/v1.0.0/
+
+Inspired by [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji)
