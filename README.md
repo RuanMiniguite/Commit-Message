@@ -6,29 +6,31 @@
 | Commit type                 | Emoji              |Commit message        |
 |:----------------------------|:-------------------|:---------------------|
 | Initial commit              | :tada:             |`:tada: first commit` |
-| New functionality           | :package:          |`:package:  `         |
+| New functionality           | :package:          |`:package:`           |
 | Bug                         | :bug:              |`:bug:`               |
-| Comments in source code     | :bulb:             |`:bulb:`              |
-| UI                          | :art:              |`:art:`               |
 | Refactor code               | :hammer:           |`:hammer:`            |
-| Responsive design           | :iphone:           |`:iphone:`            |
-| License                     | :pencil:           |`:pencil:`            |
 | Documentation               | :books:            |`:books:`             |
-| Removing code/files         | :fire:             |`:fire:`              |
-| Relese                      | :rocket:           |`:rocket:`            |
 | Performance                 | :zap:              |`:zap:`               |
-| Security                    | :lock:             |`:lock:`              |
-| Configuration files         | :gear:             |`:gear:`              |
+| Style                       | :art:              |`:art:`               |
 | Tests                       | :rotating_light:   |`:rotating_light:`    |
+| Removing code/files         | :fire:             |`:fire:`              |
+| Comments in source code     | :bulb:             |`:bulb:`              |
+| License                     | :pencil:           |`:pencil:`            |
+| Security                    | :lock:             |`:lock:`              |
+| Relese                      | :rocket:           |`:rocket:`            |
 
 </div>
 
+
 ##### Example
 ```
-:bug: Correção da variável
+  :bug: Correção da variável
 ```
 ###### Saida!
-:bug: Correção da variável
+```
+  🐛 Correção da variável
+```
+
 
 
 <div align="center">
