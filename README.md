@@ -5,32 +5,25 @@
   <br>
 
 
-  | Commit type                 | Emoji              |Commit message        |
-  |:----------------------------|:-------------------|:---------------------|
-  | Initial commit              | :tada:             |`:tada: first commit` |
-  | New functionality           | :package:          |`:package:`           |
-  | Bug                         | :bug:              |`:bug:`               |
-  | Refactor code               | :hammer:           |`:hammer:`            |
-  | Removing code/files         | :fire:             |`:fire:`              |
-  | Configuration files         | :wrench:           |`:wrench:`            |
-  | Documentation               | :books:            |`:books:`             |
-  | Performance                 | :zap:              |`:zap:`               |
-  | Style                       | :art:              |`:art:`               |
-  | Responsive design           | :iphone:           |`:iphone:`            |
-  | Tests                       | :rotating_light:   |`:rotating_light:`    |
-  | Comments in source code     | :bulb:             |`:bulb:`              |
-  | License                     | :pencil:           |`:pencil:`            |
-  | Security                    | :lock:             |`:lock:`              |
-  | Relese                      | :rocket:           |`:rocket:`            |
+  | Commit type                      | Commit message     |
+  |:---------------------------------|:-------------------|
+  | A New feature                    | feat               |
+  | A bug fix                        | fix                |
+  | Changes to documentation         | docs               |
+  | Formatting, missing semi colons  | style              |
+  | Refactoring production code      | refactor           |
+  | Adding test, refactoring test    | test               |
+  | Updating build tasks             | chore              |
 
 </div>
 
 
 ##### Example
 ```
-  :bug: Correção da variável
+  feat: A New feature
 ```
+
 ###### Saida!
-```
-  🐛 Correção da variável
-```
+
+feat: A New feature
+
