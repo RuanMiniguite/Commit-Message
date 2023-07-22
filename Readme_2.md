@@ -24,6 +24,6 @@
 ```
 
 ###### Saida!
-
-feat: A New feature
-
+```
+  feat: A New feature
+```
